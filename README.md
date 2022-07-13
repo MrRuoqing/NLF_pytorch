@@ -1,3 +1,3 @@
 # NLF_pytorch
 
-$$x+y=z$$
+$x+y=z$
